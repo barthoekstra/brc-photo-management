@@ -17,7 +17,7 @@ First and foremost: collecting photos of migrating raptors should **never** happ
 
 1. The same species we target for the count should be prioritised by photographers, so Honey Buzzards, Black Kites, Lesser Spotted Eagles, Booted Eagles, Short-toed Eagles, Marsh, Montagu's and Pallid Harriers. Collecting photos of other species is welcomed, but should not be prioritised.
 2. Photographers should prioritise birds flying close in distance codes W1, O and E, so we automatically get a random sample of the birds and we can collect high-quality (= useful) photos on which we can see moult and plumage features.
-3. Photographers should try to photograph as many different individuals as possible and to expose photos so plumage features are clearly visible in photos. Furthermore, it is best to photograph multiple individuals from streams of birds rather than solo individuals, to reduce the bias towards photographing just interesting looking individuals. In principle only 1 photographer takes photos from one stream at a time.
+3. Photographers should try to photograph as many different individuals as possible and to expose photos so plumage features are clearly visible. Furthermore, it is best to photograph multiple individuals from streams of birds rather than solo individuals, to reduce the bias towards photographing *just* interesting looking individuals. In principle only 1 photographer takes photos from one stream at a time.
 4. All cameras should have their time synced with the tablets set to the Georgian timezone, so we can link the photos to our count records, which also have a timestamp attached.
 5. Photographers preferably set their cameras to shoot in RAW (or RAW + JPEG).
 
