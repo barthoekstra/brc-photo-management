@@ -22,7 +22,7 @@ First and foremost: collecting photos of migrating raptors should **never** happ
 5. Photographers preferably set their cameras to shoot in RAW (or RAW + JPEG).
 
 ### In the evenings
-A schedule will be made so at least every 3-4 days someone from BRC or an appointed researcher collects photos from photographers. As we don't want to waste precious time off in the evenings and do not want to introduce additional bias, all photos will be copied to a large external hard disk, without making any selections beforehand (with the possible exception of excluding personal photos of people, etcetera). The files will be organized as follows:
+A schedule will be made so at least every 3-4 days someone from BRC or an appointed researcher collects photos from photographers. As we don't want to waste precious time off in the evenings and do not want to introduce additional bias, all photos will be copied to a large external hard disk, without making any selections beforehand (with the possible exclusion of personal photos of people, etcetera). The files will be organized as follows:
 ```
 BRC 2019/[Photographer Name]/[Date]/[Date]T[Time]-[Photographer Name]-[Photo Number].[Extension]
 ``` 
