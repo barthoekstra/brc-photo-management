@@ -32,4 +32,4 @@ So for example the file `20190827T1115-Bart_Hoekstra-378.CR2` is stored in `BRC 
 In progress.
 
 ## References
-- Vansteelant, W. M. G., Wehrmann, J., Engelen, D., Jansen, J., Verhelst, B., Benjumea, R., … de Boer, F. (in review). Accounting for differential migration strategies between age groups to monitor raptor population dynamics in the eastern Black Sea flyway. _IBIS_.
+- Vansteelant, W. M. G., Wehrmann, J., Engelen, D., Jansen, J., Verhelst, B., Benjumea, R., … de Boer, F. (in review). Accounting for differential migration strategies between age groups to monitor raptor population dynamics in the eastern Black Sea flyway.
