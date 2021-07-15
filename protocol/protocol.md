@@ -3,7 +3,7 @@ For over a decade [Batumi Raptor Count](https://www.batumiraptorcount.org) has o
 
 With excellent conditions to view raptors up close, we are convinced there is great potential to monitor moult of raptors in the Batumi bottleneck as well. Besides breeding and migration, moult is one of the most energy-demanding aspects of a raptor's life and this relatively understudied phenomenon could offer many interesting applications to further our understanding of the ecology of birds of prey. With ever increasing numbers of photographers participating in our monitoring efforts and improving quality of photographic equipment, we can nowadays efficiently study moult through high-quality photographs of migrating raptors.
 
-During the 2019 count season, we will pilot the systematic collection of photographs of migrating raptors, for which we have designed the following protocol. The aim of this protocol is to ensure we can collect unbiased photos of large numbers of individuals from our target species, and to do so without burdening photographers with days worth of photo selection and editing. In return for the photos we:
+During the 2021 count season, we will continue the systematic collection of photographs of migrating raptors, for which we have designed the following protocol. The aim of this protocol is to ensure we can collect unbiased photos of large numbers of individuals from our target species, and to do so without burdening photographers with days worth of photo selection and editing. In return for the photos we:
 1. Credit photographers for their work in future publications.
 2. Offer them access to the entire database of photos collected under this monitoring scheme and the opportunity to take part in or conduct plumage and moult research based on this dataset. 
 3. Provide an off-site backup of all originals (even RAW photos) collected and stored in the database. 
@@ -22,14 +22,14 @@ First and foremost: collecting photos of migrating raptors should **never** happ
 5. Photographers preferably set their cameras to shoot in RAW (or RAW + JPEG).
 
 ### In the evenings
-A schedule will be made so at least every 3-4 days someone from BRC or an appointed researcher collects photos from photographers. As we don't want to waste precious time off in the evenings and do not want to introduce additional bias, all photos will be copied to a large external hard disk, without making any selections beforehand (with the possible exclusion of personal photos of people, etcetera). The files will be organized as follows:
+A schedule will be made so that every few days someone from BRC or an appointed researcher collects photos from photographers. As we don't want to waste precious time off in the evenings and do not want to introduce additional bias, all photos will be copied to a large external hard disk, without making any selections beforehand (with the possible exclusion of personal photos of people, etcetera). The files will be organized as follows:
 ```
-BRC 2019/[Photographer Name]/[Date]/[Date]T[Time]-[Photographer Name]-[Photo Number].[Extension]
+BRC 2021/[Photographer Name]/[Date]/[Date]T[Time]-[Photographer Name]-[Photo Number].[Extension]
 ``` 
-So for example the file `20190827T1115-Bart_Hoekstra-378.CR2` is stored in `BRC 2019/Bart Hoekstra/20190827/`. Processing these photos for research purposes happens after the season has finished.
+So for example the file `20210827T1115-Bart_Hoekstra-378.CR2` is stored in `BRC 2019/Bart Hoekstra/20190827/`. Processing these photos for research purposes happens after the season has finished.
 
 ## Photo Processing
 In progress.
 
 ## References
-- Vansteelant, W. M. G., Wehrmann, J., Engelen, D., Jansen, J., Verhelst, B., Benjumea, R., … de Boer, F. (in review). Accounting for differential migration strategies between age groups to monitor raptor population dynamics in the eastern Black Sea flyway.
+- Vansteelant, W.M.G., Wehrmann, J., Engelen, D., Jansen, J., Verhelst, B., Benjumea, R., Cavaillès, S., Kaasiku, T., Hoekstra, B. and de Boer, F. (2020), Accounting for differential migration strategies between age groups to monitor raptor population dynamics in the eastern Black Sea flyway. Ibis, 162: 356-372. [https://doi.org/10.1111/ibi.12773](https://doi.org/10.1111/ibi.12773)
